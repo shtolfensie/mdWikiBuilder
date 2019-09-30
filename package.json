@@ -1,0 +1,14 @@
+{
+  "name": "mdtohtml",
+  "version": "1.0.0",
+  "description": "Simple .md to .html converter for use with github pages",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Filip Stolfa",
+  "license": "MIT",
+  "dependencies": {
+    "showdown": "^1.9.0"
+  }
+}
